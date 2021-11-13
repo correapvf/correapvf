@@ -6,5 +6,5 @@
 - 😄 Pronouns: He / Him
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correapvf&layout=compact&theme=github_dark)](https://github.com/correapvf)
+<a href="https://github.com/correapvf">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correapvf&layout=compact&langs_count=7&theme=github_dark"/>
